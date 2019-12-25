@@ -2,6 +2,9 @@
 
 ![Image](https://github.com/wizlearner/0research/0Research_MobileScreenShot.png)
 
+## Your assistant search helper to help you
+
+### "ask the right questions"
 
 <form
   action="https://formspree.io/mqkelkyb"
@@ -18,7 +21,7 @@
 
   <!-- your other form fields go here -->
 
-  <button type="submit">Send</button>
+  <button type="submit">SignUp for Early Release</button>
 </form>
 
 
