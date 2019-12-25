@@ -1,4 +1,27 @@
-## Welcome to GitHub Pages
+# Find Better Questions before you 'Search'
+
+![Image](https://github.com/wizlearner/0research/0Research_MobileScreenShot.png)
+
+
+<form
+  action="https://formspree.io/mqkelkyb"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your name:
+    <input type="text" name="_replyto">
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
+
+
 
 You can use the [editor on GitHub](https://github.com/wizlearner/0research.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
