@@ -13,6 +13,7 @@
     Your email:
     <input type="text" name="_replyto">
   </label>
+  
   <label>
     Your name:
     <input type="text" name="_replyto">
@@ -43,8 +44,13 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. Highlight Text on a Web Page
+Works just like any WebClipper tool, take you mouse drag over some text and feed your direction of search
+2. Press Browser Plugin e.g. Chrome Extension
+With an activated plugin, search knowledge graph of suggesstions
+3. Get Recommendations from Favourite Platforms
+Receive more questions reframed to help you define the questions better
+
 
 **Bold** and _Italic_ and `Code` text
 
